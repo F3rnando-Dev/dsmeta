@@ -52,12 +52,12 @@ function SalesCard() {
           <tbody>
 
             <tr>
-              <td className="show992">#341</td>
+              <td className="show992">#33</td>
               <td className="show576">08/07/2022</td>
-              <td>Anakin</td>
+              <td>Fernando</td>
               <td className="show992">15</td>
               <td className="show992">11</td>
-              <td>R$ 55.300,00</td>
+              <td>R$ 33.570,00</td>
               <td>
                 <div className="dsmeta-red-btn-container">
                   <NotificationButton />
@@ -66,12 +66,12 @@ function SalesCard() {
             </tr>
 
             <tr>
-              <td className="show992">#341</td>
+              <td className="show992">#41</td>
               <td className="show576">08/07/2022</td>
-              <td>Anakin</td>
+              <td>Ariane</td>
               <td className="show992">15</td>
               <td className="show992">11</td>
-              <td>R$ 55.300,00</td>
+              <td>R$ 51.300,00</td>
               <td>
                 <div className="dsmeta-red-btn-container">
                   <NotificationButton />
@@ -80,12 +80,12 @@ function SalesCard() {
             </tr>
 
             <tr>
-              <td className="show992">#341</td>
-              <td className="show576">08/07/2022</td>
-              <td>Anakin</td>
+              <td className="show992">#31</td>
+              <td className="show576">15/08/2022</td>
+              <td>Vinícius</td>
               <td className="show992">15</td>
               <td className="show992">11</td>
-              <td>R$ 55.300,00</td>
+              <td>R$ 22.570,00</td>
               <td>
                 <div className="dsmeta-red-btn-container">
                   <NotificationButton />
